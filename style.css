@@ -406,7 +406,7 @@ header.is-scrolling {
     justify-content: space-between;
     gap: 80px;background-color: #eee;
     width: 100%;
-    padding: 10px;
+    padding: 8px;
   }
 
   .left-side ul {
