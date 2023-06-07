@@ -493,6 +493,7 @@ header.is-scrolling {
     display: flex;
     gap: 30px;
     align-items: center;
+    background-color: #eee;
   }
 
   .phone {
