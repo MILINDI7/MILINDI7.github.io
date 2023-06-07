@@ -35,11 +35,12 @@ span {
   font-weight: 900;
 }
 
-nav {
-  display: grid;
-  grid-gap: 16px;
-  grid-template-columns: repeat(4, auto);
+.menu-flex {
+  display: flex;
+  flex-direction: row;
+  gap: 32px;
 }
+
 
 a {
   color: inherit;
@@ -93,7 +94,7 @@ h3 {
   font-size: 30px;
   margin-bottom: 32px;
   font-weight: 400;
-  color: rgb(255, 255, 255);
+  color: rgb(5, 5, 5);
   opacity: 1;
 }
 
