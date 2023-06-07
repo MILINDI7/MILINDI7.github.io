@@ -94,8 +94,12 @@ h3 {
   font-size: 30px;
   margin-bottom: 32px;
   font-weight: 400;
-  color: rgb(5, 5, 5);
+  color: rgb(255, 255, 255);
   opacity: 1;
+}
+
+.texts {
+  color: #030303;
 }
 
 .button {
@@ -496,7 +500,7 @@ header.is-scrolling {
     background-color: #eee;
     width: 100%;
     justify-content: center;
-    
+
   }
 
   .phone {
