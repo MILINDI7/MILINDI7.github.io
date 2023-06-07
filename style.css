@@ -494,6 +494,9 @@ header.is-scrolling {
     gap: 30px;
     align-items: center;
     background-color: #eee;
+    width: 100%;
+    justify-content: center;
+    
   }
 
   .phone {
