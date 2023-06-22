@@ -205,6 +205,14 @@ img {
   margin-bottom: 32px;
   background-size: cover;
 
+/* &:nth-child(10) {
+  background-image: url(./Images/pregnant.jpg);
+}
+
+&:nth-child(11) {
+  background-image: url(./Images/Hot-Stone-Massage.jpg);
+} */
+
 &:nth-child(2) {
   background-image: url(./Images/lomi-lomi.jpg);
 }
@@ -236,13 +244,6 @@ img {
   background-image: url(./Images/sport.jpg);
 }
 
-&:nth-child(10) {
-  background-image: url(./Images/pregnant.jpg);
-}
-
-&:nth-child(11) {
-  background-image: url(./Images/Hot-Stone-Massage.jpg);
-}
 }
 
 .proj-content {
