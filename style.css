@@ -569,4 +569,22 @@ header.is-scrolling {
       overflow: hidden;
       box-shadow: 0px 6px 12px rgba(0, 0, 0, 0.1);
     }
+
+    #location {
+      width: 70%;
+      height: 70%;
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      padding: 32px;
+    }
+  }
+
+  #location {
+    /* width: 20%;
+    height: auto; */
+    padding: 30%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
   }
