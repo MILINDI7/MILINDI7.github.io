@@ -614,7 +614,7 @@ header.is-scrolling {
     }
 
     .reach-out {
-    width: 95%;
+    width: 100%;
     padding: 10px;
     margin: auto auto;
     }
@@ -626,7 +626,7 @@ header.is-scrolling {
     }
   
     .reach-cont {
-      width: 90%;
+      width: 100%;
     }
 
     #location {
