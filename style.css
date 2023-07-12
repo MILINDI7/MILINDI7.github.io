@@ -614,13 +614,14 @@ header.is-scrolling {
     }
 
     .reach-out {
-    width: 80%;
+    width: 95%;
     padding: 10px;
+    margin: auto auto;
     }
 
     .education {
-      width: 90%;
-      font-size: 18px;
+      width: 95%;
+      font-size: 15px;
       font-style: inherit;
     }
   
@@ -635,6 +636,7 @@ header.is-scrolling {
       align-items: center;
       justify-content: center;
       padding: 32px;
+      font-size: 15px;
     }
   }
 
