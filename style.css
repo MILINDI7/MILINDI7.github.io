@@ -638,6 +638,20 @@ header.is-scrolling {
       padding: 32px;
       font-size: 15px;
     }
+
+    .mapp {
+      width: 100%;
+      padding: 10px;
+      margin: auto auto;
+    }
+
+    .locations {
+      width: 70%;
+    }
+
+    iframe {
+      width: 90%;
+    }
   }
 
   #location {
