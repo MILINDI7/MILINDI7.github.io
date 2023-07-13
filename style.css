@@ -619,6 +619,7 @@ header.is-scrolling {
   justify-content: center;
 }
 
+
   @media (max-width: 767px) {
     .bod-container {
       display: flex;
