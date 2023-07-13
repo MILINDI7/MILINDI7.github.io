@@ -559,6 +559,7 @@ header.is-scrolling {
   width: 50%;
   height: 50%;
   padding: 32px;
+  margin: auto auto;
 }
 
 .reach-cont {
@@ -586,6 +587,20 @@ header.is-scrolling {
   font-style: oblique;
 }
 
+.open-time {
+  display: flex;
+  flex-direction: row;
+  gap: 15px;
+  width: 70%;
+}
+
+.home-delivery {
+  display: flex;
+  flex-direction: row;
+  gap: 15px;
+  width: 70%;
+}
+
 .phone-no {
   display: flex;
   flex-direction: row;
@@ -596,6 +611,10 @@ header.is-scrolling {
   display: flex;
   flex-direction: row;
   gap: 30px;
+}
+
+.mapp {
+  margin: auto auto;
 }
 
   @media (max-width: 767px) {
@@ -623,6 +642,14 @@ header.is-scrolling {
       width: 95%;
       font-size: 15px;
       font-style: inherit;
+    }
+
+    .open-time {
+      width: 95%;
+    }
+
+    .home-delivery {
+      width: 95%;
     }
   
     .reach-cont {
@@ -662,3 +689,4 @@ header.is-scrolling {
     align-items: center;
     justify-content: center;
   }
+
